@@ -17,6 +17,7 @@ params:
   profileMode:
     enabled: true
     title: Daniel Segura
+    imageUrl: /avatar.jpeg
 
   socialIcons:
     - name: linkedin
