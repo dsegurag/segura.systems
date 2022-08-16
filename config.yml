@@ -22,6 +22,8 @@ params:
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/dsegurag"
+    - name: email
+      url: "mailto:daniel@segura.systems"
     - name: github
       url: "https://github.com/dsegurag"
     - name: buymeacoffee
